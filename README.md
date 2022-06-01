@@ -34,6 +34,6 @@ I have been studying multimedia design as Ap degree and currently I’m studying
     
 <p><strong>Github stats:</strong></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamert-gharibi&theme=vue&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamert-gharibi&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamert-gharibi&count_private=true&theme=vue)   
