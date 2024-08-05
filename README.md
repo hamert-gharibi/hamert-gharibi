@@ -1,7 +1,6 @@
 ### Hello there, I'm Hamed! 
 
-A fullstack developer currently living in Esbjerg, Denmark. 
-I have been studying multimedia design as Ap degree and currently I’m studying web development as bachelor. 
+A fullstack developer currently living in Esbjerg, Denmark.  
 
 <ul>
   <li>
