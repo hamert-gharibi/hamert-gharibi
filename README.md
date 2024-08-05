@@ -6,7 +6,7 @@ A fullstack developer currently living in Esbjerg, Denmark.
   <li>
      Reach me at <a href="mailto:hamed.ghariby@gmail.com">hamed.ghariby@gmail.com</a>
   </li>
-   <li> Currently learning how to be better at TypeScript and Angular.
+   <li> Currently learning C#.
    </li>
  </ul>
 
